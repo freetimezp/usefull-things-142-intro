@@ -8,9 +8,8 @@
 
 
 .footer__description
-We offer the best electric cars of <br />
-the most recognized brands in <br />
-the world.
+Ми пропонуємо найкращі електромобілі <br />
+від найвідоміших брендів у світі.
 
 
 https://www.npmjs.com/package/mixitup?activeTab=readme
